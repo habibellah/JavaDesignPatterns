@@ -8,7 +8,7 @@ public class UserTripPage {
     public static void main(String[] args) {
 
         Factory factory = new Factory();
-        TransportTrip trip = factory.getFactoryVehicle("Boat");
+        TransportTrip trip = factory.getFactoryVehicle("Car");
         trip.transportWay();
         //the result is: you will use a car for you trip
     }
