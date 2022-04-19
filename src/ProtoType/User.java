@@ -8,8 +8,8 @@ take time in other programmes for example take data from DB
 public class User {
     public static void main(String[] args) {
 Rectangle r1 = new Rectangle();
-r1.width = 20;
-r1.high = 40;
+r1.width = 10;
+r1.high = 20;
 Rectangle r2 = (Rectangle) r1.clone();
         System.out.println("the high and the width of r1 is: "+r1.high+" , "+r1.width);
         System.out.println("the high and the width of r2 is: "+r2.high+" , "+r2.width);
