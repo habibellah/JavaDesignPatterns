@@ -1,5 +1,7 @@
 package StructuralDesignPatterns.Adapter;
-
+/*
+this example is to wrap from the kilo meter to the Meter using the adapter pattern
+ */
 public class User {
     public static void main(String[] args) {
 

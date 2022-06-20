@@ -1,5 +1,5 @@
 package StructuralDesignPatterns.Adapter;
-
+//Meters class
 public class Meters {
    private int meter ;
 
