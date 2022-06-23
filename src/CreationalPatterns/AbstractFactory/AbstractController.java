@@ -2,7 +2,7 @@ package CreationalPatterns.AbstractFactory;
 /*
 here the implementation of IAbstractFactory who is responsible of return many products
 in a condition (getVehicleBuy)to return one object of concrete classes who implement VehiclesBuy interface
-(getPaymentWay)o return one object of concrete classes who implement PaymentWay interface
+(getPaymentWay)o return one object of concrete classes who implement PaymentWay interface.
  */
 public class AbstractController implements IAbstractFactory{
     @Override
