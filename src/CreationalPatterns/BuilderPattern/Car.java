@@ -3,7 +3,7 @@ package CreationalPatterns.BuilderPattern;
 /*
 this concrete class will implement the IBuilder interface and here we can find
 many concrete classes and implement the methods with its case in our example every concrete class,
- or we can say Car has a model and steps to build maybe you want to build a motorcycle
+ or we can say Car has a model and steps to build maybe you want to build a motorcycle.
  */
 public class Car implements IBuilder {
     private final String model;
