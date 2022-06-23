@@ -1,6 +1,6 @@
 package CreationalPatterns.SingletonPattern;
 /*
-this class of person here we will implement the singleton pattern
+this class of person here we will implement the singleton pattern.
  */
 public class Person {
     private String name;
