@@ -1,7 +1,7 @@
 package StructuralDesignPatterns.ProxyPattern;
 /*
 in this program with put a name of a book and get its number of pages,
-and we implement it using proxy pattern
+and we implement it using proxy design pattern
  */
 public class User {
     public static void main(String[] args) {
