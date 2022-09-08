@@ -1,8 +1,5 @@
 package BehavioralDesignPatterns.MementoPattern;
-/*
-this program is about text editor we implement the memento pattern to use the undo or restore last
-command
- */
+
 public class Originator {
     private String state;
 
