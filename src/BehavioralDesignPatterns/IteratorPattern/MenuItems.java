@@ -1,6 +1,5 @@
 package BehavioralDesignPatterns.IteratorPattern;
-//the properties of the menu in every restaurant
-public class MenuItems {
+ public class MenuItems {
     String name;
     String description;
     boolean vegetarian;

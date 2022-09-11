@@ -8,7 +8,7 @@ on the menu this concrete class to use iterator with arrayList collections
 public class ArrayListIterator implements Iterator{
 
   private   ArrayList<Object> myArrayList;
-    private int position = 0;
+    private  int position = 0;
 
     public ArrayListIterator(ArrayList<Object> myArrayList)
     {
