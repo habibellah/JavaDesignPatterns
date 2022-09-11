@@ -1,4 +1,4 @@
-package StructuralDesignPatterns.IteratorPattern;
+package BehavioralDesignPatterns.IteratorPattern;
 
 import java.util.ArrayList;
 /*

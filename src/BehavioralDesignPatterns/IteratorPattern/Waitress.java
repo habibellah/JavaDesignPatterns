@@ -1,4 +1,4 @@
-package StructuralDesignPatterns.IteratorPattern;
+package BehavioralDesignPatterns.IteratorPattern;
 /*
 this class is responsible to show the two menus using iterator and do not care
 what is the collection use in witch menu come

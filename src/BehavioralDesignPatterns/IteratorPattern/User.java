@@ -1,4 +1,4 @@
-package StructuralDesignPatterns.IteratorPattern;
+package BehavioralDesignPatterns.IteratorPattern;
 
 /*
 this program implement the iterator pattern because there two restaurant want to be one but one of them

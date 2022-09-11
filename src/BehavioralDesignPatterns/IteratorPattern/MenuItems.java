@@ -1,4 +1,4 @@
-package StructuralDesignPatterns.IteratorPattern;
+package BehavioralDesignPatterns.IteratorPattern;
 //the properties of the menu in every restaurant
 public class MenuItems {
     String name;

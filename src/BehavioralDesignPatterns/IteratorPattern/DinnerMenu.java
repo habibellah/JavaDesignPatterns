@@ -1,4 +1,4 @@
-package StructuralDesignPatterns.IteratorPattern;
+package BehavioralDesignPatterns.IteratorPattern;
 /*
 this class calls the iterator methods from the concrete with a special code the iterator will loop all items
 on the menu
