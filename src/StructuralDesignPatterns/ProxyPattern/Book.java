@@ -1,6 +1,6 @@
 package StructuralDesignPatterns.ProxyPattern;
 //the book class has information of book name and number of pages
-public class Book {
+public class Book{
     private final String name;
     private final int numberOfPages;
     public Book(String name,int numberOfPages)
